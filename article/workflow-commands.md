@@ -25,7 +25,7 @@ Below commands may be used to achieve the branching model explained in previous 
 
 ### Git commands
 
-Please refer [git useful commands](https://github.com/Immidart-Technologies-LLP/git-workflow/blob/master/documentation/git-useful-commands.md) for more details on below commands.
+Please refer [git useful commands](https://github.com/Immidart-Technologies-LLP/git-workflow/blob/master/article/useful-commands.md) for more details on below commands.
 
 #### Initialize the project
 
